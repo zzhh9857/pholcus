@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/henrylee2cn/pholcus/exec"
-	_ "github.com/henrylee2cn/pholcus_lib" // 此为公开维护的spider规则库
+	"github.com/zzhh9857/pholcus/exec"
+	_ "github.com/zzhh9857/pholcus_lib" // 此为公开维护的spider规则库
 	// _ "github.com/henrylee2cn/pholcus_lib_pte" // 同样你也可以自由添加自己的规则库
 )
 
