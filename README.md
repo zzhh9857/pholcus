@@ -67,7 +67,7 @@ Pholcus（幽灵蛛）是一款纯Go语言编写的支持分布式的高并发�
 # 下载安装
 
 ```
-go get -u -v github.com/henrylee2cn/pholcus
+go get -u -v github.com/zzhh9857/pholcus
 ```
 
 备注：Pholcus公开维护的spider规则库地址 <https://github.com/henrylee2cn/pholcus_lib>
